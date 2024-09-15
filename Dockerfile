@@ -1,4 +1,4 @@
-FROM n8nio/n8n:latest
+FROM naskio/n8n-python:latest
 
 USER root
 
